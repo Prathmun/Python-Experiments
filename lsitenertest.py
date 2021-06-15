@@ -4,9 +4,10 @@ import os
 from flask import Flask, request, Response
 from story_teller import story_teller
 import faerie_story
+from tokenz import SLACK_WEBHOOK_SECRET
 app = Flask(__name__)
 
-SLACK_WEBHOOK_SECRET = 'https://hooks.slack.com/services/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'
+
 
 
 @app.route('/slack', methods=['POST', 'GET'], )

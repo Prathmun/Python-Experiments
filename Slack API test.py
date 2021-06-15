@@ -4,7 +4,7 @@ test_url = 'https://slack.com/api/api.test'
 
 post_message_url = 'https://slack.com/api/chat.postMessage'
 
-bot_oath_token = 'xoxb-2159771144566-2163476870501-6GlFIlBxNLosg88nBita14ez'
+bot_oath_token = '***'
 
 channel_id = 'C0252M0SSP6'
 

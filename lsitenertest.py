@@ -48,7 +48,7 @@ def test():
     if content['event']['text'].isnumeric() == True:
         current_scene = story_teller(current_scene, content['event']['text'])
     else:
-        pp.pprint(content)
+        #pp.pprint(content)
         pass    
     return ""
 

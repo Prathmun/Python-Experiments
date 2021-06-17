@@ -35,13 +35,13 @@ Do you:
 1. Take her offer to mean food, and descend upon the buffet
 2. Step out onto the dance floor
 3. Turn and run into the forest and the lights""",
-[ "faerie_servant","dance_death", "forest_secape"])
+[ "faerie_servant","dance_death", "forest_escape"])
 
 forest_escape = Scene("",
 """Against you're better judgement you plunge into the undergrowth after the blue lights. As you set off towards them the sounds of bells fill your ears. As you stumble through the underbrush, the lights begin to dance faster and faster. 
 Though the conditions worsen and your pace crawls to a literal crawl, the lights seme to be approaching you faster and faster. Soon they surrond you and are whirring around you with terrible speed. The bellsong has accelerated to match their
 awful whirling. Faster and faster! As your vision is toally enveloped in whirling blue lights the storm of lights and sounds ceases. You are in a medow. You recognize this medow, you are close to home! You set off at a run, vowing never to enter 
-the encahnted forest again """,
+the enchanted forest again """,
 [])
 
 forest_path_death = Scene("",
